@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Read Data From Property File=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Broswer type selected From Property File=====]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23101" started-at="2018-09-05T11:53:24Z" finished-at="2018-09-05T11:53:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23101" started-at="2018-09-05T11:53:24Z" finished-at="2018-09-05T11:53:47Z">
+      <class name="testsuites.RegistrationTest">
+        <test-method status="PASS" signature="registration()[pri:0, instance:testsuites.RegistrationTest@5e5792a0]" name="registration" duration-ms="23078" started-at="2018-09-05T11:53:24Z" finished-at="2018-09-05T11:53:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Read Data From Property File=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Broswer type selected From Property File=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- testsuites.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
