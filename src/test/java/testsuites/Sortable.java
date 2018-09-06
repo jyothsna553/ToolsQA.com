@@ -1,5 +1,5 @@
 package testsuites;
 
-public class Sortable {
+public class SortableTest {
 
 }
