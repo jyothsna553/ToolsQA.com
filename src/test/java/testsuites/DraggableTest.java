@@ -8,5 +8,6 @@ public class DraggableTest {
 	 public void drag() throws Exception {
 		
 		 System.out.println("drag it ");
+		  System.out.println("new added ");
 	 }
 }
